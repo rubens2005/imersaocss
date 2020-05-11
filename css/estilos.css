@@ -15,7 +15,7 @@ body {
 }
 
 .menu li {
-  list-style: none;
+  list-style    : none;
 }
 
 a {
@@ -25,7 +25,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  background-color: lightblue;
+  background-color: rgb(162, 185, 192);
 }
 
 .site-subtitle,
